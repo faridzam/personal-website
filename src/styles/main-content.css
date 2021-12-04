@@ -1,0 +1,65 @@
+.main.content{
+    display: flex;
+    position: relative;
+    background-color: #f2f2f2;
+}
+
+.main-content-table{
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.main-content-title{
+    display: flex;
+    font-size: 5rem;
+    justify-content: center;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+
+div.skills-section>span{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 3rem;
+}
+
+div.skills-section>span>img{
+    display: flex;
+    justify-content: center;
+    height: 5vw;
+    width: 50%;
+}
+
+.skills-section{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 25vw;
+    margin-top: 5rem;
+    height: 100%;
+    justify-content: center;
+    padding-bottom: 10rem;
+}
+
+.skills-table{
+    text-align: center;
+    height: 100%;
+}
+
+.skills-thead{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+thead.skills-thead>tr>td{
+    padding-bottom: 3rem;
+}
+
+.skills-tbody{
+    font-size: 1rem;
+}
+
+tbody.skills-tbody>tr>td{
+    padding-bottom: 0.5rem;
+}

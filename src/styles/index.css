@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background: #1a1a1a;
+    font-family: 'Assistant', sans-serif;
+}
+
+.landing-page{
+    position: relative;
+}
