@@ -63,3 +63,45 @@ thead.skills-thead>tr>td{
 tbody.skills-tbody>tr>td{
     padding-bottom: 0.5rem;
 }
+
+.container-portfolio{
+    display: flex;
+}
+
+.portfolio-projects-list{
+    display: flex;
+    position: relative;
+}
+
+.projects-list-table{
+    margin: 10rem;
+    text-align: center;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.projects-list-tbody{
+    
+}
+
+tbody.projects-list-tbody>tr>td{
+    padding: 4rem;
+    border-width: 1px;
+    border-style:solid;
+    border-left: hidden;
+    border-right: hidden;
+}
+
+tbody.projects-list-tbody>tr:hover{
+    background-color: #EFC72E ;
+    cursor: pointer;
+}
+
+.active-project{
+    background-color: #EFC72E;
+}
+
+.project-display{
+    align-content: flex-end;
+    margin: auto;
+}
