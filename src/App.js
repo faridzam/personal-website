@@ -20,8 +20,12 @@ class App extends React.Component {
           <Header/>
           <main>
             <Switch>
-              <Route path="/" component={Main}/>
-              <Route path="/about" component={About}/>
+              <Route exact path="/">
+                <Main/>
+              </Route>
+              <Route path="/about">
+                <About/>
+              </Route>
             </Switch>
           </main>
         </BrowserRouter>

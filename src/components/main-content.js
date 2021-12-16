@@ -94,19 +94,19 @@ class MainContent extends React.Component{
                             <table className="projects-list-table">
                                 <tbody className="projects-list-tbody">
                                     <tr>
-                                        <td className={PortfolioKiri === this.props.choosenProject && "active-project"} onClick={() => changeProject(PortfolioKiri)}>
+                                        <td className={this.props.choosenProject === PortfolioKiri && "active-project"} onClick={() => changeProject(PortfolioKiri)}>
                                             <h1>Kiri</h1>
                                             <p>brand identity design</p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td className={PortfolioKiriKopi === this.props.choosenProject && "active-project"} onClick={() => changeProject(PortfolioKiriKopi)}>
+                                        <td className={this.props.choosenProject === PortfolioKiriKopi && "active-project"} onClick={() => changeProject(PortfolioKiriKopi)}>
                                             <h1>Kiri_Kopi</h1>
                                             <p>Web App Development</p>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td className={PortfolioSaloka === this.props.choosenProject && "active-project"} onClick={() => changeProject(PortfolioSaloka)}>
+                                        <td className={this.props.choosenProject === PortfolioSaloka && "active-project"} onClick={() => changeProject(PortfolioSaloka)}>
                                             <h1>Saloka</h1>
                                             <p>Web App Development</p>
                                         </td>
