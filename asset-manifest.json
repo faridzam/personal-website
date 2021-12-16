@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.5fa2e3fa.chunk.css",
-    "main.js": "/personal-website/static/js/main.41ee602d.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.41ee602d.chunk.js.map",
+    "main.css": "/personal-website/static/css/main.e056a81e.chunk.css",
+    "main.js": "/personal-website/static/js/main.8be8e573.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.8be8e573.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.9c1b8298.js",
     "runtime-main.js.map": "/personal-website/static/js/runtime-main.9c1b8298.js.map",
-    "static/js/2.3278b72b.chunk.js": "/personal-website/static/js/2.3278b72b.chunk.js",
-    "static/js/2.3278b72b.chunk.js.map": "/personal-website/static/js/2.3278b72b.chunk.js.map",
+    "static/js/2.0c594225.chunk.js": "/personal-website/static/js/2.0c594225.chunk.js",
+    "static/js/2.0c594225.chunk.js.map": "/personal-website/static/js/2.0c594225.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "static/css/main.5fa2e3fa.chunk.css.map": "/personal-website/static/css/main.5fa2e3fa.chunk.css.map",
-    "static/js/2.3278b72b.chunk.js.LICENSE.txt": "/personal-website/static/js/2.3278b72b.chunk.js.LICENSE.txt",
+    "static/css/main.e056a81e.chunk.css.map": "/personal-website/static/css/main.e056a81e.chunk.css.map",
+    "static/js/2.0c594225.chunk.js.LICENSE.txt": "/personal-website/static/js/2.0c594225.chunk.js.LICENSE.txt",
     "static/media/design-icon.acbe9033.svg": "/personal-website/static/media/design-icon.acbe9033.svg",
     "static/media/development-icon.5e5b638e.svg": "/personal-website/static/media/development-icon.5e5b638e.svg",
     "static/media/logo.aa974d29.svg": "/personal-website/static/media/logo.aa974d29.svg",
     "static/media/logo_trans.e4818136.svg": "/personal-website/static/media/logo_trans.e4818136.svg",
-    "static/media/on-process-icon.352e5dd4.svg": "/personal-website/static/media/on-process-icon.352e5dd4.svg"
+    "static/media/on-process-icon.352e5dd4.svg": "/personal-website/static/media/on-process-icon.352e5dd4.svg",
+    "static/media/portfolio-kiri-kopi.8537b819.png": "/personal-website/static/media/portfolio-kiri-kopi.8537b819.png",
+    "static/media/portfolio-kiri.c3d2d5ee.png": "/personal-website/static/media/portfolio-kiri.c3d2d5ee.png",
+    "static/media/portfolio-saloka.483fbfb2.png": "/personal-website/static/media/portfolio-saloka.483fbfb2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9c1b8298.js",
-    "static/js/2.3278b72b.chunk.js",
-    "static/css/main.5fa2e3fa.chunk.css",
-    "static/js/main.41ee602d.chunk.js"
+    "static/js/2.0c594225.chunk.js",
+    "static/css/main.e056a81e.chunk.css",
+    "static/js/main.8be8e573.chunk.js"
   ]
 }
