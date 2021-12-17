@@ -14,7 +14,7 @@ class Header extends React.Component{
           <div className="nav-option">
             <ul>
               <li>
-                <Link to="/about" className="nav-option-about" style={{ textDecoration: 'none', color: '#f2f2f2' }}>about</Link>
+                <Link to="/personal-website/about" className="nav-option-about" style={{ textDecoration: 'none', color: '#f2f2f2' }}>about</Link>
               </li>
             </ul>
           </div>

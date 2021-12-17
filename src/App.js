@@ -25,10 +25,10 @@ class App extends React.Component {
               <Route exact path="/personal-website">
                 <Main/>
               </Route>
-              <Route path="/about">
+              <Route path="/personal-website/about">
                 <About/>
               </Route>
-              <Route path="/get-in-touch">
+              <Route path="/personal-website/get-in-touch">
                 <GetInTouch/>
               </Route>
             </Switch>
