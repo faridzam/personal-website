@@ -1,0 +1,34 @@
+.about-main{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flex-break{
+    flex-basis: 100%;
+    height: 0;
+}
+
+.about-logo{
+    position: relative;
+    margin-top: 5rem;
+}
+
+.about-text{
+    color: #f2f2f2;
+    position: relative;
+    text-align: justify;
+    text-align-last: center;
+    margin-top: 3rem;
+    max-width: 70vw;
+}
+
+.about-text-1{
+
+}
+
+.about-text-2{
+    margin-top: 1rem;
+}

@@ -114,6 +114,7 @@ nav ul{
     align-items: center;
     align-content: center;
     opacity: 0.8;
+    z-index: 2;
 }
 
 .cta-text1{

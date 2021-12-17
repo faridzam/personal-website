@@ -32,6 +32,9 @@ class Footer extends React.Component{
                         </ul>
                     </div>
                 </div>
+
+                <div className="flex-break-footer"></div>
+                
                 <div className="footer-copyright">
                     <p>
                         A creative agency with attitude. <br/>

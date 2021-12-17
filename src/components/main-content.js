@@ -38,6 +38,9 @@ class MainContent extends React.Component{
                                 </tbody>
                             </table>
                         </div>
+
+                        <div className="flex-break-skills"></div>
+
                         <div className="skills-section">
                             <span>
                                 <img src={developmentIcon} alt="designIcon" />
@@ -62,6 +65,9 @@ class MainContent extends React.Component{
                                 </tbody>
                             </table>
                         </div>
+
+                        <div className="flex-break-skills"></div>
+
                         <div className="skills-section">
                             <span>
                                 <img src={onProcessIcon} alt="designIcon" />
@@ -89,24 +95,27 @@ class MainContent extends React.Component{
                     <div className="main-content-title">
                         <h1>Portfolios.</h1>
                     </div>
+
+                    <div className="flex-break-portfolio"></div>
+
                     <div className="container-portfolio">
                         <div className="portfolio-projects-list">
                             <table className="projects-list-table">
                                 <tbody className="projects-list-tbody">
-                                    <tr>
-                                        <td className={this.props.choosenProject === PortfolioKiri && "active-project"} onClick={() => changeProject(PortfolioKiri)}>
+                                    <tr className={this.props.choosenProject === PortfolioKiri && "active-project"} onClick={() => changeProject(PortfolioKiri)}>
+                                        <td>
                                             <h1>Kiri</h1>
                                             <p>brand identity design</p>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td className={this.props.choosenProject === PortfolioKiriKopi && "active-project"} onClick={() => changeProject(PortfolioKiriKopi)}>
+                                    <tr className={this.props.choosenProject === PortfolioKiriKopi && "active-project"} onClick={() => changeProject(PortfolioKiriKopi)}>
+                                        <td>
                                             <h1>Kiri_Kopi</h1>
                                             <p>Web App Development</p>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td className={this.props.choosenProject === PortfolioSaloka && "active-project"} onClick={() => changeProject(PortfolioSaloka)}>
+                                    <tr className={this.props.choosenProject === PortfolioSaloka && "active-project"} onClick={() => changeProject(PortfolioSaloka)}>
+                                        <td>
                                             <h1>Saloka</h1>
                                             <p>Web App Development</p>
                                         </td>
@@ -114,8 +123,11 @@ class MainContent extends React.Component{
                                 </tbody>
                             </table>
                         </div>
+
+                        <div className="flex-break-projects"></div>
+                        
                         <div className="project-display">
-                            <img src={this.props.choosenProject} alt={this.props.choosenProject} height="720px"></img>
+                            <img src={this.props.choosenProject} alt={this.props.choosenProject}></img>
                         </div>
                     </div>
                 </div>

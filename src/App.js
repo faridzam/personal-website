@@ -4,12 +4,14 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
-import {Main, About} from './pages'
+import {Main, About, GetInTouch} from './pages'
 import {Header} from './components'
 import './styles/index.css'
 import './styles/banner.css'
 import './styles/main-content.css'
 import './styles/footer.css'
+import './styles/about.css'
+import './styles/get-in-touch.css'
 
 
 class App extends React.Component {
@@ -25,6 +27,9 @@ class App extends React.Component {
               </Route>
               <Route path="/about">
                 <About/>
+              </Route>
+              <Route path="/get-in-touch">
+                <GetInTouch/>
               </Route>
             </Switch>
           </main>
