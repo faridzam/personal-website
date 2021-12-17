@@ -7,7 +7,7 @@ class Header extends React.Component{
     return (
       <header className="header">
         <nav className="navigation">
-          <Link to="/" style={{ textDecoration: 'none', color: '#f2f2f2' }} className="wordmark">
+          <Link to="/personal-website" style={{ textDecoration: 'none', color: '#f2f2f2' }} className="wordmark">
             <h4 className="wordmark1">Farid</h4>
             <h4 className="wordmark2">Zam</h4>
           </Link>
