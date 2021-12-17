@@ -11,7 +11,9 @@ class Banner extends React.Component{
                     <h1 className="banner-h1">DE</h1>
                     <h2 className="banner-h2">veloper<br/>signer</h2>
                 </div>
-                <CTA/>
+                <div className="cta-button-banner">
+                    <CTA/>
+                </div>
                 <div className="banner-text2">
                     <ul className="banner-text2-list">
                         <li>Brand Design</li>

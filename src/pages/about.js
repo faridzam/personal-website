@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import Logo from '../assets/logo.svg'
+import CTA from '../components/CTA-button'
+
 
 export default class About extends Component {
     render() {
@@ -11,32 +13,28 @@ export default class About extends Component {
                     </span>
                 </div>
 
-                <div className="flex-break"></div>
+                <div className="flex-break-about"></div>
 
                 <div className="about-text">
                     <div className="about-text-1">
-                        <h3>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Aliquam sodales, sapien consectetur iaculis condimentum,
-                        ipsum lacus malesuada diam, eget fermentum lorem ex in dolor.
-                        Sed quis dolor non turpis fermentum tristique in ac est.
-                        Suspendisse tempus nisl sit amet tellus tempus,
-                        at porttitor neque euismod. Pellentesque enim quam,
-                        semper id vulputate nec, tempus at mauris.
-                        </h3>
+                        <h2>
+                        I'm Zam a professional graphic designer and software developer.
+                        </h2>
                     </div>
 
                     <div className="about-text-2">
                         <h5>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Aliquam sodales, sapien consectetur iaculis condimentum,
-                            ipsum lacus malesuada diam, eget fermentum lorem ex in dolor.
-                            Sed quis dolor non turpis fermentum tristique in ac est.
-                            Suspendisse tempus nisl sit amet tellus tempus,
-                            at porttitor neque euismod. Pellentesque enim quam,
-                            semper id vulputate nec, tempus at mauris.
+                        I have a solid background in graphic design and software development. 
+                        I can work independently and respect a deadline indefinitely. 
+                        I feel comfortable working with a good team of designers or developer. 
+                        I am passionate about the creative industry and I take pride in my dependable experience in the field.
                         </h5>
                     </div>
+                </div>
+
+                <div className="flex-break-about"></div>
+                <div className="cta-button-about">
+                    <CTA/>
                 </div>
             </div>
         );
