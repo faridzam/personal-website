@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="whatsapp-icon.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="6.6076756"
+     inkscape:cx="14.150211"
+     inkscape:cy="44.796388"
+     inkscape:window-width="1916"
+     inkscape:window-height="1025"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <g
+     clip-path="url(#clip0_279_7)"
+     id="g6"
+     style="fill:#1a1a1a;fill-opacity:1">
+    <path
+       d="M13.3147 39.0495L14.1134 39.5255C17.0454 41.2719 20.3814 42.1964 23.7587 42.1964C34.1787 42.1964 42.6547 33.7203 42.6547 23.3C42.6547 12.8812 34.1787 4.40413 23.7587 4.40413C13.3414 4.40413 4.86271 12.8812 4.86271 23.3C4.86271 26.7401 5.81868 30.1281 7.62801 33.0973L8.11735 33.9016L6.22933 40.9479L13.3147 39.0495ZM0 47.1749L3.38135 34.5573C1.46668 31.1016 0.460042 27.2307 0.460042 23.3C0.460042 10.4536 10.9107 -7.36068e-06 23.7587 -7.36068e-06C36.6067 -7.36068e-06 47.0601 10.4536 47.0601 23.3C47.0601 36.1479 36.6067 46.6016 23.7587 46.6016C19.9027 46.6016 16.0933 45.6265 12.684 43.7787L0 47.1749"
+       fill="#040606"
+       id="path2"
+       style="fill:#1a1a1a;fill-opacity:1" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="M32.4267 26.5416C31.4667 25.9667 30.22 25.3265 29.0894 25.788C28.224 26.1443 27.6707 27.5016 27.108 28.1932C26.82 28.5495 26.4761 28.6041 26.0334 28.4265C22.7801 27.1297 20.2868 24.9574 18.4908 21.9656C18.1868 21.5 18.2414 21.1333 18.608 20.7025C19.1507 20.064 19.832 19.3385 19.9787 18.4776C20.1254 17.6177 19.7214 16.612 19.3654 15.8443C18.9108 14.8656 18.4027 13.4692 17.4214 12.9146C16.5201 12.4052 15.3321 12.6907 14.5294 13.3443C13.1427 14.4749 12.4734 16.2427 12.4934 17.9973C12.5 18.4964 12.5614 18.9932 12.6774 19.4735C12.9574 20.6297 13.4907 21.7109 14.0934 22.7359C14.5467 23.5109 15.04 24.2626 15.572 24.9855C17.312 27.3495 19.4774 29.4041 21.9841 30.9401C23.2374 31.7068 24.5854 32.3801 25.9827 32.8416C27.5494 33.3588 28.9454 33.8973 30.6374 33.576C32.4081 33.2401 34.1561 32.1443 34.8588 30.4375C35.0668 29.9307 35.1707 29.3683 35.0547 28.835C34.8134 27.7307 33.32 27.075 32.4267 26.5416"
+       fill="#040606"
+       id="path4"
+       style="fill:#1a1a1a;fill-opacity:1" />
+  </g>
+  <defs
+     id="defs11">
+    <clipPath
+       id="clip0_279_7">
+      <rect
+         width="47.06"
+         height="47.1749"
+         fill="white"
+         id="rect8" />
+    </clipPath>
+  </defs>
+</svg>

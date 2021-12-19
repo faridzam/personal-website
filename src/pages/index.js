@@ -1,5 +1,5 @@
 import Main from './main'
 import About from './about'
-import GetInTouch from './get-in-touch'
+import ContactUs from './contact-us'
 
-export {Main, About, GetInTouch}
+export {Main, About, ContactUs}

@@ -4,14 +4,14 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
-import {Main, About, GetInTouch} from './pages'
+import {Main, About, ContactUs} from './pages'
 import {Header} from './components'
 import './styles/index.css'
 import './styles/banner.css'
 import './styles/main-content.css'
 import './styles/footer.css'
 import './styles/about.css'
-import './styles/get-in-touch.css'
+import './styles/contact-us.css'
 
 
 class App extends React.Component {
@@ -28,8 +28,8 @@ class App extends React.Component {
               <Route path="/personal-website/about">
                 <About/>
               </Route>
-              <Route path="/personal-website/get-in-touch">
-                <GetInTouch/>
+              <Route path="/personal-website/contact-us">
+                <ContactUs/>
               </Route>
             </Switch>
           </main>
