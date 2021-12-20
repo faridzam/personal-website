@@ -47,7 +47,7 @@
     position: relative;
     flex-wrap: wrap;
     justify-content:center;
-    width: 100vw;
+    width: 100%;
     color: #f2f2f2;
 }
 
@@ -82,11 +82,41 @@
 
 @media screen and (max-width: 720px) {
     .contact-card{
-        width: 200px;
-        height: 75px;
+        width: 20rem;
+        margin: 1rem;
+        margin-bottom: 1rem;
     }
 
     .contact-card-text{
         font-size: 7px;
+    }
+
+}
+
+@media screen and (max-width: 1063px){
+    .input-text{
+        width: 30rem;
+    }
+    
+    .input-textarea{
+        width: 30rem;
+    }
+
+    .submit-button{
+        width: 31rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .input-text{
+        width: 20rem;
+    }
+
+    .input-textarea{
+        width: 20rem;
+    }
+
+    .submit-button{
+        width: 21rem;
     }
 }
