@@ -31,6 +31,9 @@ class App extends React.Component {
               <Route path="/contact-us">
                 <ContactUs/>
               </Route>
+              <Route path="*">
+                <Main/>
+              </Route>
             </Switch>
           </main>
         </BrowserRouter>
