@@ -22,13 +22,13 @@ class App extends React.Component {
           <Header/>
           <main>
             <Switch>
-              <Route exact path="/personal-website">
+              <Route exact path="/">
                 <Main/>
               </Route>
-              <Route path="/personal-website/about">
+              <Route path="/about">
                 <About/>
               </Route>
-              <Route path="/personal-website/contact-us">
+              <Route path="/contact-us">
                 <ContactUs/>
               </Route>
             </Switch>
